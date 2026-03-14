@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cd $HOME/github-streak/streak-repo
+#cd $HOME/github-streak/streak-repo
+cd /home/antik/Desktop/ExamDaysOnly-EDO--DailyStreak-scripts
 
 echo "Contribution $(date)" >> streak-log.txt
 
